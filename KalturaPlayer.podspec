@@ -5,7 +5,7 @@ suffix = ''       # Release
 Pod::Spec.new do |s|
   
   s.name             = 'KalturaPlayer'
-  s.version          = '4.4.0-m1' + suffix
+  s.version          = '4.4.0' + suffix
   s.summary          = 'KalturaPlayer -- Kaltura Player for iOS and tvOS'
   s.homepage         = 'https://github.com/aca-mobile/kaltura-player-ios'
   s.license          = { :type => 'AGPLv3', :file => 'LICENSE' }
